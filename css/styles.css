@@ -81,7 +81,7 @@ ul {
     letter-spacing: 0.42px;
 }
 
-.list-tags-team{
+.list-tags-team span{
     color:var(--link-color);
     text-align: center;
     font-family:var(--text-font-family);
